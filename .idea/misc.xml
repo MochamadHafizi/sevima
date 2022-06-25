@@ -4,9 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/bg_btn_primary.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/bg_index.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/bg_primary.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/bg_rounded_stroke_primary.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/bg_score.xml" value="0.240625" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/activity_content.xml" value="0.22" />
         <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/activity_prepare.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/activity_score.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/activity_splash.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/item_answer.xml" value="0.33" />
+        <entry key="..\:/Users/WINDOWS 10/AndroidStudioProjects/QuizApplication/app/src/main/res/layout/item_content.xml" value="0.22447916666666667" />
       </map>
     </option>
   </component>

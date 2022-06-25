@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizApplication">
         <activity
+            android:name=".ui.score.ScoreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.content.ContentActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.prepare.PrepareActivity"
             android:exported="false" />
         <activity

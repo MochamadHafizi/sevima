@@ -5,4 +5,8 @@
     <string name="please_field_your_nickname">Please field your nickname</string>
     <string name="desc_app">Ini adalah aplikasi quiz sederhana, yang digunakan untuk melihat kemampuan peserta didik ataupun dapat digunakan untuk test masuk perusahaan</string>
     <string name="play">Play</string>
+    <string name="default_index">- / -</string>
+    <string name="default_text">-</string>
+    <string name="your_score">Your Score</string>
+    <string name="done">Done</string>
 </resources>
