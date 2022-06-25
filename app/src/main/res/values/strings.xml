@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="start">start</string>
+    <string name="enter_a_nickname">Enter a Nickname</string>
+    <string name="please_field_your_nickname">Please field your nickname</string>
+    <string name="desc_app">Ini adalah aplikasi quiz sederhana, yang digunakan untuk melihat kemampuan peserta didik ataupun dapat digunakan untuk test masuk perusahaan</string>
+    <string name="play">Play</string>
+</resources>
