@@ -1,0 +1,154 @@
+{
+  "contents": [
+    {
+      "body": "1. 100 : 2 = ....",
+      "image": "",
+      "answers": [
+        {
+          "answer": "10",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "50",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "20",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "30",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "2. Siapa Presiden Pertama RI?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Soeharto",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Soekarno",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Megawati",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Luhut Panjaitan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "3. Yang termasuk Bahasa Pemrograman..",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Ms Word",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "PHP",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Wordpress",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Mobirise",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "4. Hari Kemerdekaan Indonesia...",
+      "image": "",
+      "answers": [
+        {
+          "answer": "11 Agustus 1987",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "17 Agustus 1945",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "12 Juni 2001",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "11 mei 1980",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "5. Yang termasuk hewan karnivora",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Gajah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Singa",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Banteng",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Kerbau",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    }
+  ]
+}

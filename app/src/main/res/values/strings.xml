@@ -9,4 +9,9 @@
     <string name="default_text">-</string>
     <string name="your_score">Your Score</string>
     <string name="done">Done</string>
+    <string name="are_you_sure">Apakah Anda Yakin?</string>
+    <string name="message_exit">Jika iya, Data Anda akan hilang</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_input_data">Hitung Skor?</string>
 </resources>
